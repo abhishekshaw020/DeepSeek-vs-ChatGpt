@@ -3,7 +3,7 @@
 # 🎭 **AI Battle: DeepSeek vs ChatGPT**
 ## 🚀 *Which AI Performs Better? A Data-Driven Comparison*
 
-![AI vs AI](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*u6JD8dcRfc7mRg8vDdr0VA.png)
+
 
 🔗 **GitHub Repository:** [DeepSeek-vs-ChatGpt](https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git)
 
@@ -68,3 +68,23 @@ This analysis is based on a dataset containing AI chatbot interactions. The data
 ```sh
 git clone https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git
 cd DeepSeek-vs-ChatGpt
+
+
+
+## 🛠️ **Install Dependencies**
+pip install pandas numpy matplotlib seaborn plotly wordcloud
+
+
+## 🤝 **Contributing**
+Contributions are always welcome! If you have ideas to enhance this analysis, feel free to:
+
+## **Fork the repository**
+Create a new branch
+Submit a pull request
+
+## 📬 **Connect with Me**
+🔗 GitHub - Abhishek Shaw
+🔗 Medium - My Articles
+🔗 Kaggle - My Work
+📧 Email - abhishekshaw020@example.com
+
