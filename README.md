@@ -1,11 +1,13 @@
 <div align="center">
-  
+
 # 🎭 **AI Battle: DeepSeek vs ChatGPT**
-## 🚀 *Which AI Performs Better? A Data-Driven Comparison*
+## 🚀 *Which AI Reigns Supreme? A Data-Driven Face-Off*  
 
+📊 **Analyzing AI Performance with Real User Data!**  
 
+🔗 **GitHub Repository:** [DeepSeek-vs-ChatGpt](https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git)  
 
-🔗 **GitHub Repository:** [DeepSeek-vs-ChatGpt](https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git)
+![AI Battle](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*u6JD8dcRfc7mRg8vDdr0VA.png)
 
 </div>
 
@@ -13,34 +15,43 @@
 
 ## 📖 **About This Project**  
 
-In the rapidly evolving world of AI, **DeepSeek** and **ChatGPT** are two powerful contenders in the chatbot space. But which one delivers **better accuracy, user satisfaction, and response speed**?  
+🤖 The world of AI is evolving rapidly, and **DeepSeek** and **ChatGPT** are among the top contenders in the chatbot space. But which one delivers:  
+✔️ **Better Accuracy?**  
+✔️ **Higher User Satisfaction?**  
+✔️ **Faster Response Time?**  
 
-This project is a **data-driven comparison** analyzing **real-world user interactions** to uncover which AI model truly excels. 🚀  
+This project is a **comprehensive data-driven comparison** that analyzes **real user interactions** to determine the superior AI model. 🚀  
 
 📌 **Key Focus Areas:**  
-✅ **User Behavior Analysis** - How users interact with each model  
-✅ **Performance Metrics** - Response accuracy, speed, and user rating  
-✅ **User Retention & Engagement** - Tracking churn rate and long-term usage  
-✅ **Text Analysis** - Most searched topics and AI-generated responses  
-✅ **Session Tracking** - Understanding user patterns over time  
+✅ **User Behavior Analysis** – Understanding interaction patterns  
+✅ **Performance Metrics** – Accuracy, response speed, and user ratings  
+✅ **Retention & Engagement** – Churn rate and long-term usage  
+✅ **Text & Query Analysis** – Most searched topics and responses  
+✅ **Session Tracking** – Studying user engagement over time  
 
 ---
 
-## 📊 **Dataset Overview**
-This analysis is based on a dataset containing AI chatbot interactions. The dataset includes:  
+## 📊 **Dataset Overview**  
 
-🔹 **Date & Time** – When the interaction happened  
+📂 **Dataset File:** `deepseek_vs_chatgpt.csv`  
+
+📌 **Main Features of the Dataset:**  
+
+🔹 **Date & Time** – Timestamp of interactions  
 🔹 **AI Platform** – DeepSeek or ChatGPT  
 🔹 **User Metrics** – Active users, churn rate, retention rate  
 🔹 **Query Analysis** – Query type, response tokens, accuracy, topic category  
 🔹 **User Feedback** – Ratings, experience score, corrections needed  
 🔹 **Session Tracking** – Device type, language, region, return frequency  
 
-**📂 Dataset File:** `deepseek_vs_chatgpt.csv`  
+📊 **A Sneak Peek into the Dataset:**  
+
+![Dataset Overview](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZCgA0IPrRb9jCTb8FcG9XA.png)  
 
 ---
 
-## 🚀 **Key Features & Visualizations**
+## 🚀 **Key Features & Insights**  
+
 ### 🔍 **1️⃣ Exploratory Data Analysis (EDA)**
 ✔️ Cleaning & preprocessing of AI interaction data  
 ✔️ Handling missing values & outliers  
@@ -61,30 +72,21 @@ This analysis is based on a dataset containing AI chatbot interactions. The data
 ✔️ Custom search by **username, query type, or platform**  
 ✔️ Track **user sessions & interactions** over time  
 
+📊 **Example Visualizations:**  
+
+#### 🔹 **AI Response Accuracy Comparison**  
+![Accuracy](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZCgA0IPrRb9jCTb8FcG9XA.png)  
+
+#### 🔹 **Most Searched Topics (WordCloud)**  
+![WordCloud](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*fNR3J6mNsBMOjSTO7wGxXw.jpeg)  
+
 ---
 
-## 💻 **Installation & Usage**
-### 📥 **Clone the Repository**
+## 💻 **Installation & Usage**  
+
+### 📥 **Clone the Repository**  
 ```sh
 git clone https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git
 cd DeepSeek-vs-ChatGpt
 
-
-
-## 🛠️ **Install Dependencies**
-pip install pandas numpy matplotlib seaborn plotly wordcloud
-
-
-## 🤝 **Contributing**
-Contributions are always welcome! If you have ideas to enhance this analysis, feel free to:
-
-## **Fork the repository**
-Create a new branch
-Submit a pull request
-
-## 📬 **Connect with Me**
-🔗 GitHub - Abhishek Shaw
-🔗 Medium - My Articles
-🔗 Kaggle - My Work
-📧 Email - abhishekshaw020@example.com
-
+---
