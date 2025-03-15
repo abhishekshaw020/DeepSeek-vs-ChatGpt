@@ -7,7 +7,7 @@
 
 🔗 **GitHub Repository:** [DeepSeek-vs-ChatGpt](https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git)  
 
-![AI Battle](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*u6JD8dcRfc7mRg8vDdr0VA.png)
+
 
 </div>
 
@@ -46,7 +46,8 @@ This project is a **comprehensive data-driven comparison** that analyzes **real 
 
 📊 **A Sneak Peek into the Dataset:**  
 
-![Dataset Overview](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZCgA0IPrRb9jCTb8FcG9XA.png)  
+![Dataset Overview]![image](https://github.com/user-attachments/assets/22ee6934-69a6-41dc-9457-a93b9466aca9)
+ 
 
 ---
 
@@ -75,10 +76,12 @@ This project is a **comprehensive data-driven comparison** that analyzes **real 
 📊 **Example Visualizations:**  
 
 #### 🔹 **AI Response Accuracy Comparison**  
-![Accuracy](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZCgA0IPrRb9jCTb8FcG9XA.png)  
+![image](https://github.com/user-attachments/assets/0c392fb8-e684-4316-896a-800f8d432769)
+  
 
-#### 🔹 **Most Searched Topics (WordCloud)**  
-![WordCloud](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*fNR3J6mNsBMOjSTO7wGxXw.jpeg)  
+#### 🔹 **Most Searched Terms (WordCloud)**  
+![image](https://github.com/user-attachments/assets/c01e35b1-dac8-4885-84de-d2629ee1eacd)
+  
 
 ---
 
@@ -88,5 +91,3 @@ This project is a **comprehensive data-driven comparison** that analyzes **real 
 ```sh
 git clone https://github.com/abhishekshaw020/DeepSeek-vs-ChatGpt.git
 cd DeepSeek-vs-ChatGpt
-
----
